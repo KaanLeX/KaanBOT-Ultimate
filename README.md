@@ -1,2 +1,1 @@
 # KaanBOT-Ultimate
-gerek yok
